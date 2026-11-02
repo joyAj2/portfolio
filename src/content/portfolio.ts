@@ -1,5 +1,3 @@
-import { label } from "framer-motion/client";
-
 export const person = {
   name: "Joy Ejeh Ave",
   initial: "J",
